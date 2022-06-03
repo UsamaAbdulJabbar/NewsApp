@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/004/968/002/original/cute-abstract-modern-background-free-vector.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.whiteCover {
+    margin-top: 5rem;
+    width: 40vw;
+    height: 50vh;
+    background-color:  rgb(253, 211, 218);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 13px 18px 28px -8px rgba(0,0,0,0.49);
+-webkit-box-shadow: 13px 18px 28px -8px rgba(0,0,0,0.49);
+-moz-box-shadow: 13px 18px 28px -8px rgba(0,0,0,0.49);
+
+    
+    
+}
+
+.flexDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.whiteCoverImg {
+    margin-top: 5rem;
+    width: 40vw;
+    height: 50vh;
+    background-image: url(https://i.pinimg.com/originals/20/2d/95/202d958a5a9b126cf85970ce56c648dc.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 13px 18px 28px -8px rgba(0,0,0,0.49);
+-webkit-box-shadow: 13px 18px 28px -8px rgba(0,0,0,0.49);
+-moz-box-shadow: 13px 18px 28px -8px rgba(0,0,0,0.49);
+   
+    
+}
+
+.EmailField, .PasswordField, .newsAppBar{
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 13px 18px 28px -8px rgba(0,0,0,0.49);
+    -webkit-box-shadow: 13px 18px 28px -8px rgba(0,0,0,0.49);
+    -moz-box-shadow: 13px 18px 28px -8px rgba(0,0,0,0.49);
+}
